@@ -20,3 +20,13 @@ DOMAIN,api.usercentrics.eu
 DOMAIN,sdk.fra-02.braze.eu
 DOMAIN,assets.ctfassets.net
 DOMAIN,app.adjust.net.in
+
+# > MyFin
+DOMAIN-SUFFIX,myfin.bg
+DOMAIN-SUFFIX,mpp.prd.meawallet.app
+
+# > Wise
+DOMAIN-SUFFIX,wise.com
+# Trace
+DOMAIN,api-js.mixpanel.com
+DOMAIN,cdn.mxpnl.com
